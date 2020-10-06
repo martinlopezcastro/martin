@@ -8,7 +8,7 @@ creada en bash
 
 2-¿Para que sistemas operativos sirve?
 
-sirve para los siguientes sistemas operativos:
+No sirve para los siguientes sistemas operativos:
 
 Windows
 Mac
