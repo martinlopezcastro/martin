@@ -18,5 +18,7 @@ Android
 3-¿Como se ejecuta?
 
 git clone https://github.com/martinlopezcastro/martin
+
 cd martin
+
 sh martin.sh
