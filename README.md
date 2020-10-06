@@ -22,3 +22,7 @@ git clone https://github.com/martinlopezcastro/martin
 cd martin
 
 sh martin.sh
+
+
+NO ME HAGO RESPONSABLE POR EL MAL USO QUE LE DEN ESTA 
+HERRAMIENTAS ES CON FINES EDUCATIVOS
